@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/about/person/</loc>
+    <lastmod>2020-11-22T16:51:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tech/first/</loc>
+    <lastmod>2020-11-22T16:33:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/helloworld/</loc>
+    <lastmod>2020-11-22T16:17:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-11-22T16:51:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-11-22T16:17:33+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tech/</loc>
+    <lastmod>2020-11-22T16:33:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-11-22T16:51:36+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

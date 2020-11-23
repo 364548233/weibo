@@ -1,0 +1,89 @@
+theme = "period"
+
+baseURL = "https://example.com"
+copyright = "© idoubi.cc All rights reserved"
+paginate = 20
+title = "小李随笔"
+
+[[menu.main]]
+name = "首页"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "笔记"
+url = "/posts/"
+weight = 2
+[[menu.main]]
+name = "教程"
+url = "/tech"
+weight = 3
+[[menu.main]]
+name = "关于"
+url = "/about/"
+weight = 4
+
+[params]
+logo = "https://www.lican.xyz:50/uploads/1.jpg"
+subTitle = "人人为我，我为仁人"
+
+[params.cdn.js]
+highlightjs = "https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/highlight.min.js"
+jquery = "https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"
+
+[params.cdn.css]
+highlightjs = "https://cdn.bootcdn.net/ajax/libs/highlight.js/10.3.2/styles/an-old-hope.min.css"
+
+[params.comment]
+repo = "{org}/{repo}"
+show = false
+theme = "github-light"
+
+[params.widget.about]
+description = "A fullstack developer"
+logo = "https://www.lican.xyz:50/uploads/1.jpg"
+show = true
+title = "Lican"
+
+[params.widget.qrcode]
+show = true
+# title = "WeChat Official Account"
+url = "https://www.lican.xyz:50/uploads/qrcode.jpg"
+
+[params.widget.projects]
+show = true
+title = "Open Source Projects"
+
+[[params.widget.projects.items]]
+description = "Daily news for golang"
+name = "gonews"
+url = "https://github.com/idoubi/gonews"
+
+[[params.widget.projects.items]]
+description = "Generate go struct according to SQL"
+name = "sql2struct"
+url = "https://github.com/idoubi/sql2struct"
+
+[[params.widget.projects.items]]
+description = "Request library used in golang"
+name = "goz"
+url = "https://github.com/idoubi/goz"
+
+[params.widget.links]
+show = true
+title = "Friendly Links"
+
+[[params.widget.links.items]]
+title = "Hugo"
+url = "https://gohugo.io"
+
+[[params.widget.links.items]]
+title = "Theme period"
+url = "https://github.com/idoubi/hugo-theme-period"
+
+[params.widget.categories]
+show = true
+title = "Categories"
+
+[params.widget.tags]
+show = true
+title = "Tags"

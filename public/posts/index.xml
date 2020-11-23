@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 小李随笔</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on 小李随笔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© idoubi.cc All rights reserved</copyright>
+    <lastBuildDate>Sun, 22 Nov 2020 16:17:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇博文</title>
+      <link>https://example.com/posts/helloworld/</link>
+      <pubDate>Sun, 22 Nov 2020 16:17:33 +0800</pubDate>
+      
+      <guid>https://example.com/posts/helloworld/</guid>
+      <description>初次见面，请多关照  HelloWorld
+ 的客户撒娇的还是看汇顶科技撒回到家挥洒的空间会撒娇的哈酒深刻的很快就爱神的箭挥洒的接口和奥斯卡达极地护手江安河多军撒或多扩扩扩扩扩扩扩大扩或多案件说的就是安徽雕刻机三和的尽快哈萨克接电话萨科技和的撒即可后端接口撒谎打开手机啊哈</description>
+    </item>
+    
+  </channel>
+</rss>
